@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td><strong><a href="https://github.com/amanasse/ft_transcendence">ft_transcendence</a></strong></td>
-    <td>100/100</td>
+    <td>100%</td>
 <td><p>This project involves creating a website to participate in a competition for the popular game Pong ! It must include a chat so that players can communicate, invite each other to the game, and add each other as friends.</p></td>
     <td>React/js Typescript</td>
   </tr>  
