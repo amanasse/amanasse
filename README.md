@@ -31,6 +31,12 @@ Here are some ideas to get you started:
     <th>Language</th>
   </tr>
   <tr>
+    <td><strong><a href="https://github.com/amanasse/ft_transcendence">ft_transcendence</a></strong></td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhys62lq002108l6wqtcfxcq/project/3072466" alt="amanasse's 42 ft_transcendence Score" /></a></td>
+<td><p>This project involves creating a website to participate in a competition for the popular game Pong ! It must include a chat so that players can communicate, invite each other to the game, and add each other as friends.</p></td>
+    <td>React/js Typescript</td>
+  </tr>  
+  <tr>
     <td><strong><a href="https://github.com/amanasse/Inception">Inception</a></strong></td>
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhys62lq002108l6wqtcfxcq/project/3072466" alt="amanasse's 42 Inception Score" /></a></td>
 <td><p>Virtualize multiple Docker images by creating them on a virtual machine</p></td>
